@@ -1,10 +1,10 @@
-<!-- Header with Linux Terminal Typing Animation & Profile Views -->
+<!-- Header with 3D Block Font & Profile Views -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=600&size=35&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=root%40kushal%3A~%24+Hi%2C+I'm+Kushal+Debnath;root%40kushal%3A~%24+AI+%26+ML+Researcher;root%40kushal%3A~%24+LLMOps+%26+GenAI+Engineer;root%40kushal%3A~%24+Creative+Web+Developer" alt="Terminal Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Bungee+Shade&weight=600&size=40&pause=1000&color=E36C59&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Kushal+Debnath;AI+%26+ML+Researcher;LLMOps+%26+GenAI+Engineer;Creative+Web+Developer" alt="Typing SVG" />
   </a>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=kushaldn25&label=Profile%20Views&color=00BFFF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kushaldn25&label=Profile%20Views&color=E36C59&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <p align="center">
@@ -84,12 +84,12 @@ I am a B.Tech student in Computer Science & Engineering at Sri Sri University, s
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kushaldn25&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushaldn25&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kushaldn25&show_icons=true&theme=transparent&hide_border=true&title_color=E36C59&icon_color=E36C59&text_color=ffffff" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushaldn25&theme=transparent&hide_border=true&title_color=E36C59&icon_color=E36C59&text_color=ffffff&ring=E36C59&fire=E36C59&currStreakNum=E36C59" alt="GitHub Streak" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushaldn25&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushaldn25&layout=compact&theme=transparent&hide_border=true&title_color=E36C59&text_color=ffffff" alt="Top Languages" width="50%" />
 </div>
