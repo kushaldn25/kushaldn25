@@ -1,10 +1,10 @@
-<!-- Header with Typing Animation & Profile Views -->
+<!-- Header with Linux Terminal Typing Animation & Profile Views -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Kushal+Debnath+👋;AI+%2F+ML+Researcher;LLMOps+%26+GenAI+Engineer;Creative+Web+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=600&size=35&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=root%40kushal%3A~%24+Hi%2C+I'm+Kushal+Debnath;root%40kushal%3A~%24+AI+%26+ML+Researcher;root%40kushal%3A~%24+LLMOps+%26+GenAI+Engineer;root%40kushal%3A~%24+Creative+Web+Developer" alt="Terminal Typing SVG" />
   </a>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=kushaldn25&label=Profile%20Views&color=00FF99&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kushaldn25&label=Profile%20Views&color=00BFFF&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <p align="center">
@@ -15,18 +15,12 @@
 
 ---
 
-## 🤖 The "Crazy" Element: Interview My AI Clone
-Why read a static resume when you can chat with it? I built a **custom RAG-based LLM chatbot** using Python, Streamlit, and Gemini to answer any questions about my professional experience, complete with scope-checking guardrails.
-> **[👉 Click here to interrogate my AI Clone](YOUR_STREAMLIT_LINK_HERE)** 
-
----
-
 ## 🚀 The Architect Behind The Code
-I am a B.Tech student in Computer Science & Engineering at Sri Sri University[cite: 1], specializing in the intersection of **Agentic AI systems, RAG pipelines, and MLOps infrastructure**[cite: 1]. I don't just build models; I deploy them at scale.
+I am a B.Tech student in Computer Science & Engineering at Sri Sri University, specializing in the intersection of **Agentic AI systems, RAG pipelines, and MLOps infrastructure**. I don't just build models; I deploy them at scale.
 
-*   🔬 **Research & Infrastructure:** Former IASC-INSA-NASI Summer Research Fellow at the University of Hyderabad[cite: 1]. Architected an end-to-end 5G MEC MLOps pipeline that improved GPU utilization by 50%[cite: 1].
-*   🏆 **Published Author:** Awarded *Best Paper at ODICON 2024* for a CNN-based Alzheimer's classification model achieving 97.86% accuracy[cite: 1].
-*   🕸️ **Web Touch:** I bridge heavy backend machine learning with seamless, user-centric frontends using FastAPI, Node.js, and Streamlit[cite: 1].
+*   🔬 **Research & Infrastructure:** Former IASC-INSA-NASI Summer Research Fellow at the University of Hyderabad. Architected an end-to-end 5G MEC MLOps pipeline that improved GPU utilization by 50%.
+*   🏆 **Published Author:** Awarded *Best Paper at ODICON 2024* for a CNN-based Alzheimer's classification model achieving 97.86% accuracy.
+*   🕸️ **Web Touch:** I bridge heavy backend machine learning with seamless, user-centric frontends using FastAPI, Node.js, and Streamlit.
 
 ---
 
@@ -34,11 +28,11 @@ I am a B.Tech student in Computer Science & Engineering at Sri Sri University[ci
 
 | 🌟 Project | 🛠️ Tech Stack | 📖 Overview |
 |:---|:---|:---|
-| **[Blogify]** | `LangGraph`, `Gemini`[cite: 1] | Multi-agent system where a master agent coordinates 5 autonomous sub-agents to compile weekly newsletters[cite: 1]. |
-| **[ResuFit]** | `Groq API`, `TF-IDF`[cite: 1] | AI-powered ATS resume checker deployed on Hugging Face Spaces, generating actionable NLP-based bullet suggestions[cite: 1]. |
-| **[PDF-GPT]** | `JavaScript`, `Chrome API`[cite: 1] | Zero-install tool reliably exporting 120+ message GenAI conversations to clean PDFs by bypassing virtualized-DOM issues[cite: 1]. |
-| **[BrainDx]** | `YOLOv10`, `Vision`[cite: 1] | Real-time clinical brain tumor detection system achieving 92.4% mAP@50 for rapid diagnostic support[cite: 1]. |
-| **[NIYOJAN]** | `Zoho Suite`, `Deluge`[cite: 1] | End-to-end HR Lifecycle app automating workflows for 1,000+ employees, reducing HR manual workload by 68%[cite: 1]. |
+| **Blogify** | `LangGraph`, `Gemini` | Multi-agent system where a master agent coordinates 5 autonomous sub-agents to compile weekly newsletters. |
+| **ResuFit** | `Groq API`, `TF-IDF` | AI-powered ATS resume checker deployed on Hugging Face Spaces, generating actionable NLP-based bullet suggestions. |
+| **PDF-GPT** | `JavaScript`, `Chrome API` | Zero-install tool reliably exporting 120+ message GenAI conversations to clean PDFs by bypassing virtualized-DOM issues. |
+| **BrainDx** | `YOLOv10`, `Vision` | Real-time clinical brain tumor detection system achieving 92.4% mAP@50 for rapid diagnostic support. |
+| **NIYOJAN** | `Zoho Suite`, `Deluge` | End-to-end HR Lifecycle app automating workflows for 1,000+ employees, reducing HR manual workload by 68%. |
 
 ---
 
@@ -88,19 +82,14 @@ I am a B.Tech student in Computer Science & Engineering at Sri Sri University[ci
 ---
 
 ## 📊 GitHub Analytics
-<!-- The Github Stats and Snake Animation -->
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kushaldn25&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushaldn25&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kushaldn25&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushaldn25&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <!-- GitHub Action snake animation rendering -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kushaldn25/kushaldn25/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kushaldn25/kushaldn25/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kushaldn25/kushaldn25/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushaldn25&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="50%" />
 </div>
